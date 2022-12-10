@@ -1,0 +1,80 @@
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header{
+  
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+  
+    
+}
+
+
+    
+}
+.logo img{
+    height: 50px;
+    
+    
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+    padding: 25px;
+ 
+
+    
+   
+}
+
+.header .btn1 button{
+
+    font-weight: 500;
+    color: black;
+    background: white;
+    padding: 9px 25px;
+    border-radius: 50px;
+
+}
+
+.header .btn2 button{
+
+    font-weight: 500;
+    color: white;
+    background: black;
+    padding: 9px 25px;
+    border-radius: 50px;
+
+
+}
+main .top{
+
+background-color:#0B614B;
+height: 500px;
+width: 650;
+
+}
+
+main .middle{
+    background-color: #FF0000;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height: 350px;
+    width: 650;
+}
+
+main .buttom{
+
+    background-color: #FF0000;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height: 350px;
+    width: 650;
+}
+
+
